@@ -1,3 +1,5 @@
+
+
 Financial Analysis
 ----------------------------
 Total Months:+  + str(total_months)
@@ -5,3 +7,10 @@ Total:  $38382578
 Average Change:  $-2315.12
 Greatest Increase in Profits:  Jan-2012 ($1926159)
 Greatest Decrease in Losses:  Aug-2013 ($-2196167)
+
+
+
+
+
+
+
